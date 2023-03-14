@@ -1,3 +1,3 @@
 # Unit
-Учебный проект webcademy
+Учебный проект Webcademy
 https://lansvetyk.github.io/Unit/#
